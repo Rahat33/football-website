@@ -326,5 +326,8 @@ button:hover i{
     .bottom-header{
         display: none;
     }
+    .top-button {
+        display: none;
+    }
     
 }
